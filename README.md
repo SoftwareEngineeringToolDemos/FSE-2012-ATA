@@ -10,4 +10,4 @@ In this repository, for ATA you will find:
 * :x: The original tool (no binary version available)
 * :x: A slightly modified version of the tool that is working (not available)
 
-This repository was constructed by [Sumeet Agarwal](https://github.com/sumeet29), [Vineela Boddula](https://github.com/boddulavineela), [Sarah Elder](https://github.com/seelder),  [Shrenuj Gandhi](https://github.com/shrenujgandhi), and [Alex Valkovsky](https://github.com/avalkovsky) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Satish Chandra et. al, for information for this repository.
+This repository was constructed by [Sumeet Agarwal](https://github.com/sumeet29), [Vineela Boddula](https://github.com/boddulavineela), [Sarah Elder](https://github.com/seelder),  [Shrenuj Gandhi](https://github.com/shrenujgandhi), and [Alex Valkovsky](https://github.com/avalkovsky) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to [Satish Chandra](https://sites.google.com/site/schandraacmorg/) et. al, for providing feedback for this repository.
