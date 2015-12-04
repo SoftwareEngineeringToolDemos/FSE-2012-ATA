@@ -3,7 +3,7 @@
 
 This repository contains information related to the tool Automating Test Automation (ATA) presented at Foundations of Software Engineering, 2012. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?doid=2393596.2393643).
 
-This repository _is not_ the original repository for this tool, which was not released outside of IBM. A page describing the tool may be found on their [website](http://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=3614)
+This repository _is not_ the original repository for this tool, which was not released outside of IBM. A page describing the tool may be found on their [website](http://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=3614).
 
 In this repository, for ATA you will find:
 * :x: Source Code (no source code available)
